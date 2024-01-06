@@ -11,6 +11,12 @@ The goal is MOP is to release a spec, which will be the foundation on which Mule
 ![image](https://github.com/iamanilantony/MuLearn/assets/92921196/0009c46a-fdad-473a-9ddc-fd07442799f0)
 
 
+### Journey
+
+![image](https://github.com/gtech-mulearn/MOP-Specification/assets/92921196/390184f5-ec9e-4cc2-9fc5-4965760bc3b0)
+
+
+
 ### Scope
 To fully beckinify Mulearn, and release the spec MOP - Mu Open Protocol.
 
@@ -19,7 +25,11 @@ To fully beckinify Mulearn, and release the spec MOP - Mu Open Protocol.
 ### Discovery
 - Provider applications
     - Project Pool - Project discovery provider
+        ![image](https://github.com/gtech-mulearn/MOP-Specification/assets/92921196/43f9d3d4-b4f8-4df0-b79d-a75c60f6ac0f)
+
     - Talent Pool - Selected pool of candidates with exeptional skills and grit
+        ![image](https://github.com/gtech-mulearn/MOP-Specification/assets/92921196/2042e06a-9c08-4d8e-aecc-6cf3cdb3dc40)
+
     - Gig Work Pool - Where any entities can come across and find individuals to perform any specfic gig work including design develpment etc.
 
     ![image](https://github.com/iamanilantony/MuLearn/assets/92921196/f56a89be-780c-4041-a4e0-174757e1fcdb)
