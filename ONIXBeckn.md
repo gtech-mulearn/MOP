@@ -1,15 +1,13 @@
 # Onix Beckn Success Definition
 
-1. Onix Core
-2. Onix Extensions
-3. Onix Dev
-
-If onix is running on our system, we will need client side services/sdks which will help us easily connect to these networks.
+1. Onix Core : main onix specification, which can be used to setup a network including Adaptor, BAP, BPP and Gateway
+2. Onix Extensions : extra add ons to the network like reputations and opendata ledger
+3. Onix Dev : client side services/sdks which will help us easily connect to these networks.
 
 Promod's suggestion is to create the sdks in a single language and with AI LLMs help create a module which can help in converting these libraries 
 
 
-### GUI
+### GUI for Onix Core
 
 1. Setup Env
 2. Install onix
