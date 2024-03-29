@@ -10,7 +10,7 @@ Promod's suggestion is to create the sdks in a single language and with AI LLMs 
 ### GUI for Onix Core
 
 1. Setup Env
-2. Install onix
-3. Test the installation through multiple scenerios
+2. Install onix and add network specific rule sets (Layer 2).
+3. Test the installation through multiple scenerios by adding network 
 4. Check the HeartBeat through the registry
 5. Exeption handling (For a graceful shutdown)
